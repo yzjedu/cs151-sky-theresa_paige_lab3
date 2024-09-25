@@ -1,3 +1,8 @@
-# Enter Code here
-# Read the README - under files on left
-# Delete these three lines before submitting
+# Programmers:
+# Course:
+# Due Date:
+# Lab Assignment:
+# Problem Statement:
+# Data In:
+# Data Out:
+# Credits:
