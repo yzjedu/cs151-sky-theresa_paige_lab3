@@ -8,6 +8,8 @@
 # Data Out: The time in the air, distance traveled, points earned, and a statement on how well they did
 # Credits: Class resources
 
+
+
 import math
 
 height = 0
@@ -33,6 +35,8 @@ jumper_speed = int(input('What is the speed of the jumper?'))
 
 time_in_air = math.sqrt((2 * height) / 9.8)
 distance = jumper_speed * time_in_air
+print("Distance:",time_in_air)
+
 points = 60 + (distance - par_distance) * points_per_meter
 
 print(time_in_air)
