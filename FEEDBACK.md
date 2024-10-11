@@ -12,16 +12,16 @@
 ### Blind Test
 |Result |Description|
 |------------|------------------------------------------------------|
-| **YES-NO** | The purpose of the program is displayed              |  
-| **YES-NO** | Passes test case normal 1                            |   
-| **YES-NO** | Passes test case normal 2                            |
-| **YES-NO** | Passes test normal 3                                 |    
-| **YES-NO** | Passes test case large 1                             |   
-| **YES-NO** | Passes test case large 2                             |   
-| **YES-NO** | Passes test large 3                                  |   
-| **YES-NO** | Velocity input is accepted as a float                |   
-| **YES-NO** | Runs without Python errors                           |
-| **YES-NO** | Final output includes statement of program's purpose |
+| **-NO** | The purpose of the program is displayed              |  
+| **YES-** | Passes test case normal 1                            |   
+| **YES-** | Passes test case normal 2                            |
+| **YES-** | Passes test normal 3                                 |    
+| **YES-** | Passes test case large 1                             |   
+| **YES-** | Passes test case large 2                             |   
+| **YES-** | Passes test large 3                                  |   
+| **-NO** | Velocity input is accepted as a float                |   
+| **-NO** | Runs without Python errors                           |
+| **YES-** | Final output includes statement of program's purpose |
 
 ### Open Test
 |Result |Description|
@@ -36,17 +36,17 @@
 
 |Result         |Type            |
 |---------------|----------------|
-|**YES-NO**     | Reflection 1   |
-|**YES-NO**     | Reflection 2   |
-|**YES-NO**     | Algorithm      |
-|**YES-NO**     | Flowchart      |
-|**YES-NO**     | Test cases 1   |
+|**YES-**     | Reflection 1   |
+|**YES-**     | Reflection 2   |
+|**YES-**     | Algorithm      |
+|**-NO**     | Flowchart      |
+|**YES-**     | Test cases 1   |
 
 ### Comments on the grading
+- The code doesn't actually reflect the algorithm and vice versa. 
+- Velocity should be a float, not an integer 
 - 
-- 
-- 
-### Lab Grade: 
+### Lab Grade: M
 
-#### Participation Grade: 
+#### Participation Grade: S
  - If participation grade is unsatisfactory check the `NO` in the documents sections
